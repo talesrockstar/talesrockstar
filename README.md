@@ -18,3 +18,14 @@ I'm a student at **SENAI**, currently taking the **Technical Course in Informati
 ## Social Media:
 - 📧 Email: talesrodrigues230607@gmail.com 
 - 💼 LinkedIn: Tales Silva
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=talesrockstar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=talesrockstar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=talesrockstar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=talesrockstar&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
